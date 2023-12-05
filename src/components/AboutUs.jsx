@@ -52,7 +52,7 @@ export default function AboutUs() {
                             <div className='absolute z-[2] w-[50%] h-[50%] right-20 bottom-20 blue__gradient'/>
                         </div>
                     </section>
-                    <section id='about-us2' className={`${layout.section} -mt-60`}>
+                    <section id='about-us2' className={`${layout.section} mt-0 lg:-mt-60`}>
                         <div className={`${layout.sectionInfo} px-4 py-12 md:py-20 text-center md:text-left text-white`}>
                             <h3 className={`${styles.heading3} text-3xl md:text-4xl font-bold mt-10 md:mt-12 mb-4`}>Our Journey</h3>
                             <p className={`${styles.paragraph} text-lg md:text-xl max-w-[600px] mx-auto md:mx-0`}>

@@ -162,25 +162,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Switching to Hoobank for my savings was a game-changer! Their savings account not only offered competitive interest rates but also provided the flexibility I needed. Managing it through their user-friendly mobile app has made my financial planning effortless",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Savings Account",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Hoobank made buying our dream home a reality! Their mortgage services were exceptional, offering us a range of options and guiding us through the entire process. Their team's expertise and personalized approach made us feel confident and supported every step of the way",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Mortgage Services",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "The customer service at Hoobank is unparalleled. Whenever I've had questions or needed assistance, their 24/7 support team has been incredibly responsive and helpful. It's reassuring to know that I can rely on them for prompt and reliable assistance",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Customer Service",
     img: people03,
   },
 ];

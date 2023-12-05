@@ -10,7 +10,7 @@ export default function Testimonials() {
         <div className='w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative x-[1]'>
           <h1 className={styles.heading2}> What people are <br className='sm:block hidden'/> saying about us</h1>
           <div className='w-full md:mt-0 mt-6'>
-            <p className={`${styles.paragraph} text-left max-w-[450px]`}>Everything you need to accept card payments and grow your business anywhere on the planet.</p>
+            <p className={`${styles.paragraph} text-left max-w-[450px]`}>Discover firsthand experiences and insights from our valued customers at Hoobank. Here are testimonials highlighting the satisfaction and success achieved through our products, services, and unwavering commitment to your financial well-being</p>
           </div>
         </div>
 

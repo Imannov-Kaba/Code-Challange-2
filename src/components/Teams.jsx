@@ -42,7 +42,7 @@ export default function Teams() {
                             </p>
                         </div>
                         <div className={`${layout.sectionImg} flex flex-col items-center md:items-start py-8 px-4 md:px-12`}>   
-                            <div className="border-blue-200 border-2 text-white rounded-lg shadow-lg p-8">
+                            <div className="border-blue-200 border-0 md:border-2 text-white rounded-lg shadow-lg p-8">
                               {teams.map((team, index) => (
                                 <TeamCard key={team.id} {...team} index={index}/>
                               ))}
